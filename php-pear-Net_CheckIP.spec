@@ -5,8 +5,8 @@
 Summary:	%{_class}_%{_subclass} - Check the syntax of IPv4 adresses
 Summary(pl):	%{_class}_%{_subclass} - Sprawdzanie sk³adni adresów IPv4
 Name:		php-pear-%{_pearname}
-Version:	1.0.1
-Release:	3
+Version:	1.1
+Release:	1
 License:	PHP 2.02
 Group:		Development/Languages/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
