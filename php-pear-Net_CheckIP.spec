@@ -8,7 +8,7 @@ Summary:	%{_pearname} - check the syntax of IPv4 adresses
 Summary(pl):	%{_pearname} - sprawdzanie sk³adni adresów IPv4
 Name:		php-pear-%{_pearname}
 Version:	1.1
-Release:	3
+Release:	4
 License:	PHP 2.02
 Group:		Development/Languages/PHP
 # Source0-md5:	b7e7d4bd89e3140024d177a093d36d21
