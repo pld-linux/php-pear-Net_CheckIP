@@ -2,8 +2,8 @@
 %define         _class          Net
 %define         _subclass       CheckIP
 %define		_pearname	%{_class}_%{_subclass}
-Summary:	%{_class}_%{_subclass} - Check the syntax of IPv4 adresses
-Summary(pl):	%{_class}_%{_subclass} - Sprawdzanie sk³adni adresów IPv4
+Summary:	%{_pearname} - Check the syntax of IPv4 adresses
+Summary(pl):	%{_pearname} - Sprawdzanie sk³adni adresów IPv4
 Name:		php-pear-%{_pearname}
 Version:	1.1
 Release:	1
