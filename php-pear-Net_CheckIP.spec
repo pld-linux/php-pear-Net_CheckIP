@@ -1,10 +1,11 @@
 %include	/usr/lib/rpm/macros.php
-%define         _class          Net
-%define         _subclass       CheckIP
+%define		_class		Net
+%define		_subclass	CheckIP
 %define		_status		stable
 %define		_pearname	%{_class}_%{_subclass}
-Summary:	%{_pearname} - Check the syntax of IPv4 adresses
-Summary(pl):	%{_pearname} - Sprawdzanie sk³adni adresów IPv4
+
+Summary:	%{_pearname} - check the syntax of IPv4 adresses
+Summary(pl):	%{_pearname} - sprawdzanie sk³adni adresów IPv4
 Name:		php-pear-%{_pearname}
 Version:	1.1
 Release:	3
