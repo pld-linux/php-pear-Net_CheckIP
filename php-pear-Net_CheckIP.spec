@@ -7,12 +7,12 @@
 Summary:	%{_pearname} - check the syntax of IPv4 adresses
 Summary(pl):	%{_pearname} - sprawdzanie sk³adni adresów IPv4
 Name:		php-pear-%{_pearname}
-Version:	1.2.0
+Version:	1.2.1
 Release:	1
 License:	PHP 2.02
 Group:		Development/Languages/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
-# Source0-md5:	33eb8f3b4a8aba3874475e49f7ab40ce
+# Source0-md5:	30bd9ad56a971491be6676112bf294ed
 URL:		http://pear.php.net/package/Net_CheckIP/
 BuildRequires:	php-pear-PEAR
 BuildRequires:	rpm-php-pearprov >= 4.4.2-11
