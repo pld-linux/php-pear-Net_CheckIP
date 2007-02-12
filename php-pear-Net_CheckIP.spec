@@ -5,7 +5,7 @@
 %define		_pearname	%{_class}_%{_subclass}
 
 Summary:	%{_pearname} - check the syntax of IPv4 adresses
-Summary(pl):	%{_pearname} - sprawdzanie sk³adni adresów IPv4
+Summary(pl.UTF-8):   %{_pearname} - sprawdzanie skÅ‚adni adresÃ³w IPv4
 Name:		php-pear-%{_pearname}
 Version:	1.2.1
 Release:	1
@@ -26,8 +26,8 @@ This package validates IPv4 internet adresses.
 
 In PEAR status of this package is: %{_status}.
 
-%description -l pl
-Klasy zawarte w tym pakiecie sprawdzaj± poprawno¶æ adresów IPv4.
+%description -l pl.UTF-8
+Klasy zawarte w tym pakiecie sprawdzajÄ… poprawnoÅ›Ä‡ adresÃ³w IPv4.
 
 Ta klasa ma w PEAR status: %{_status}.
 
