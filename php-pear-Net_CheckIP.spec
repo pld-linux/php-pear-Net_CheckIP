@@ -5,7 +5,7 @@
 %define		_pearname	%{_class}_%{_subclass}
 
 Summary:	%{_pearname} - check the syntax of IPv4 adresses
-Summary(pl.UTF-8):   %{_pearname} - sprawdzanie składni adresów IPv4
+Summary(pl.UTF-8):	%{_pearname} - sprawdzanie składni adresów IPv4
 Name:		php-pear-%{_pearname}
 Version:	1.2.1
 Release:	1
